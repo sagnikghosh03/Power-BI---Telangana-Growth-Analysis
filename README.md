@@ -1,20 +1,22 @@
-**Delighted to share my latest project on "Telangana Growth Analysis" using Power BI! **
+Certainly! Here's the revised version with the asterisks removed:
+
+Delighted to share my latest project on "Telangana Growth Analysis" using Power BI!
 
 Ever wondered how Telangana is shaping its future?
 
 I delved deep into Stamp Registration, Transportation, and Ts-Ipass data to uncover compelling insights. Here are just a few of the questions I answered:
 
-1️⃣ Which districts in Telangana saw the highest document registration revenue growth from FY 2019 to 2022? ️
+1. Which districts in Telangana saw the highest document registration revenue growth from FY 2019 to 2022?
 
-**2️⃣ Is there a shift from traditional document registration to e-stamp challans in certain districts? **
+2. Is there a shift from traditional document registration to e-stamp challans in certain districts?
 
-**3️⃣ Do vehicle sales correlate with specific months or seasons in Telangana? **
+3. Do vehicle sales correlate with specific months or seasons in Telangana?
 
-**4️⃣ Which sectors attracted the most significant investments in FY 2022? **
+4. Which sectors attracted the most significant investments in FY 2022?
 
-5️⃣ Are there any seasonal patterns in investment trends for specific sectors? ️
+5. Are there any seasonal patterns in investment trends for specific sectors?
 
-**But that's just the tip of the iceberg! **
+But that's just the tip of the iceberg!
 
 I have also included additional research to explore commercial property insights and government policies' impact on Telangana's growth.
 
@@ -22,6 +24,6 @@ I'm eager to hear your valuable thoughts and insights—your feedback is greatly
 
 Important Links:
 
-Short presentation on YouTube: https://youtu.be/KoP8BRwf7nA
-Full presentation on YouTube: https://lnkd.in/gxxcj2SB
-Live Interactive Dashboard: https://lnkd.in/g5skjaaX
+Short presentation on YouTube: https://youtu.be/KoP8BRwf7nA: https://youtu.be/KoP8BRwf7nA
+Full presentation on YouTube: https://lnkd.in/gxxcj2SB: https://lnkd.in/gxxcj2SB
+Live Interactive Dashboard: https://lnkd.in/g5skjaaX: https://lnkd.in/g5skjaaX
