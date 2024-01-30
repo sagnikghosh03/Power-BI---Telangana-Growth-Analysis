@@ -22,6 +22,6 @@ I'm eager to hear your valuable thoughts and insights—your feedback is greatly
 
 Important Links:
 
-Short presentation on YouTube: https://youtu.be/KoP8BRwf7nA
-Full presentation on YouTube: https://lnkd.in/gxxcj2SB
+Short presentation on YouTube: https://youtu.be/KoP8BRwf7nA  
+Full presentation on YouTube: https://lnkd.in/gxxcj2SB  
 Live Interactive Dashboard: https://lnkd.in/g5skjaaX
