@@ -2,6 +2,7 @@ Delighted to share my latest project on "Telangana Growth Analysis" using Power 
 
 Ever wondered how Telangana is shaping its future?
 I delved deep into Stamp Registration, Transportation, and Ts-Ipass data to uncover compelling insights.  
+
 Here are just a few of the questions I answered:
 
 1. Which districts in Telangana saw the highest document registration revenue growth from FY 2019 to 2022?
